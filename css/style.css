@@ -141,6 +141,10 @@ article .entry-content video.right {
     float: none;
   }
 }
+#avatar-container img {
+  height: 160px;
+  width: 160px;
+}
 #main-nav {
   float: left;
   margin-left: 30px;

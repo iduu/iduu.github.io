@@ -627,6 +627,7 @@ article {
   }
 }
 article h1.title {
+  font-size: 28px;
   font-weight: 300;
   line-height: 35px;
   margin-bottom: 20px;
@@ -693,7 +694,9 @@ article .entry-content em {
   font-style: italic;
 }
 article .entry-content p {
-  margin-top: 10px;
+  margin-top: 18px;
+  font-size: 16px;
+  line-height: 26px;
 }
 article .entry-content h2 {
   font-weight: 300;
